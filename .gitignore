@@ -1,0 +1,24 @@
+# Local settings and personal schedules
+config.ini
+reminders.ini
+.env
+.env.*
+!.env.example
+
+# Runtime state and logs
+clock.log
+id.json
+*.log
+__pycache__/
+*.py[cod]
+
+# Python environments and build outputs
+.venv/
+venv/
+env/
+build/
+dist/
+*.spec
+*.exe
+*.msi
+*.zip
