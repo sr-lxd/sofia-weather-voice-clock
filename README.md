@@ -1,5 +1,11 @@
 # Sofia 桌面时钟
 
+<!-- en-intro -->
+**Sofia Desktop Clock** — a Windows desktop clock with weather, schedule reminders and SAPI voice announcements; optionally reads news from your own MySQL database.
+<!-- /en-intro -->
+
+---
+
 一个运行在 Windows 桌面上的圆形时钟。它把时间、天气、日程提醒和语音播报放在一个轻量窗口中，适合放在桌面边缘持续查看。
 
 > 当前仓库公开的是 Python 源码。新闻数据库、提醒日程和平台地址由使用者自行配置；仓库不提供私人服务、账号或新闻内容。
